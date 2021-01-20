@@ -1,0 +1,20 @@
+[
+    {
+        "model": "raterprojectapi.review",
+        "pk": 1,
+        "fields": {
+            "content": "First review content here!",
+            "reviewer": 1,
+            "game": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 2,
+        "fields": {
+            "content": "First review content here!",
+            "reviewer": 2,
+            "game": 2
+        }
+    }
+]
