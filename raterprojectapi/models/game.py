@@ -9,7 +9,7 @@ class Game(models.Model):
     number_of_players = models.IntegerField()
     age_recommendation = models.IntegerField()
     time_to_play = models.IntegerField()
-    image = models.ImageField()
+    image = models.ImageField(null=True)
 
     categories = models.ManyToManyField(
         "Category",
