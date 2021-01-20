@@ -1,0 +1,18 @@
+[
+    {
+        "model": "raterprojectapi.gamer",
+        "pk": 1,
+        "fields": {
+            "bio": "Gamer 1 Bio",
+            "user": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.gamer",
+        "pk": 2,
+        "fields": {
+            "bio": "Gamer 2 Bio",
+            "user": 2
+        }
+    }
+]
